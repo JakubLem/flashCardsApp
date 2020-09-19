@@ -4,5 +4,11 @@
         "polish_sentence": "polish_sentence",
         "english_word": "english_word",
         "english_sentence": "english_sentence"
+    },
+    {
+        "polish_word": "",
+        "polish_sentence": "",
+        "english_word": "",
+        "english_sentence": ""
     }
 ]
