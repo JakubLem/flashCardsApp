@@ -1,5 +1,6 @@
 # flashCardsApp
 
+
 In ```src/``` create file ```config.py```:
 
 ```py
@@ -18,3 +19,7 @@ in ```/data/``` insert files with flashcards, pattern:
     }
 ]
 ```
+
+then run ```/src/main.py```:
+
+```python main.py```
