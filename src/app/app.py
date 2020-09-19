@@ -16,6 +16,8 @@ def app(flashcards):
         num = random.randint(0,len(flashcards)-1)
         print("Polish:", "\n", flashcards[num].pw, "\n", flashcards[num].ps)
         x = input()
+        if x == "end":
+            break
         print("English:", "\n", flashcards[num].ew, "\n", flashcards[num].es)
         x = input()
         if x == "end":
